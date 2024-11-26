@@ -1,6 +1,6 @@
 **Database Name: inventory_system**
 
-**Developed by Vedant, Niranjan, Mit, Raunak**
+**Developed by Vedant, Niranjan, Mit, Rounak**
 
 **Recommended PHP Version 5.6.3**
 
